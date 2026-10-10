@@ -1,6 +1,7 @@
 <img width="1010" height="239" alt="IMG_4974" src="https://github.com/user-attachments/assets/99d2e91a-90db-4d96-a524-2ca26643e3b3" />
 
-<img width="1280" height="102" alt="IMG_4977" src="https://github.com/user-attachments/assets/d8ae90fb-9658-4cf6-b49e-e6ac53c4f115" />
+
+<img width="1280" height="143" alt="IMG_5912" src="https://github.com/user-attachments/assets/bfec54f4-4688-404a-9b97-64852e316f6e" />
 
 
 
@@ -22,7 +23,8 @@
 [@volescube](https://github.com/volescube)
 
 
-<img width="1280" height="102" alt="IMG_4977" src="https://github.com/user-attachments/assets/fef1e4d5-6121-493e-b2b5-7be3aa7d61be" />
+<img width="1280" height="143" alt="IMG_5912" src="https://github.com/user-attachments/assets/949978fb-1adf-4b11-80d9-048b82acc04e" />
+
 
 
 <p align="center">
