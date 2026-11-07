@@ -3,13 +3,13 @@
 
 
 
-<img width="1280" height="143" alt="IMG_5912" src="https://github.com/user-attachments/assets/bfec54f4-4688-404a-9b97-64852e316f6e" />
+<img width="640" height="49" alt="IMG_6893" src="https://github.com/user-attachments/assets/8741f80e-8458-433b-9007-2590393db81e" />
 
 
 
-<p align="center"><i>"I cannot see the future yet... The world is still to be determined..."</i></p>
 
-***
+
+
 
 <h2 align="center"><b>￬ 𝐂𝐎𝐎𝐋 𝐏𝐄𝐎𝐏𝐋𝐄 ￬</b></h2>
 
@@ -25,12 +25,8 @@
 [@volescube](https://github.com/volescube)
 
 
-<img width="1280" height="143" alt="IMG_5912" src="https://github.com/user-attachments/assets/949978fb-1adf-4b11-80d9-048b82acc04e" />
+<img width="640" height="49" alt="IMG_6893" src="https://github.com/user-attachments/assets/92f99e42-b64d-4be4-98e3-c97af7fd8acb" />
 
 
 
-<p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=realnpokemon&color=green)
-
-</p>
